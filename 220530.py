@@ -1,1 +1,1 @@
-print ("hello world")
+print ("hello 서울고 world")
